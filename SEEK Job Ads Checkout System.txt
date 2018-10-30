@@ -1,0 +1,16 @@
+SEEK Job Ads Checkout System
+
+User
+
+1. Home - overview of the system
+
+2. Pricing - show the pricing of different ads
+
+3. Subscription - show the package (UNILEVER, APPLE, NIKE, FORD) currently subscribe 
+
+4. Cart - checkout page of the products
+
+Admin
+
+1. Pricing Rules - show the catalog of the pricing rules
+		 - add new pricing rules based on different conditions
